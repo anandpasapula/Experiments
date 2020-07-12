@@ -9,5 +9,6 @@ public class Expericlass {
     public static void main(String[] args){
 
         System.out.println("First Print");
+        Expericlass obj1=new Expericlass();
     }
 }
