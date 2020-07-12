@@ -10,5 +10,10 @@ public class Expericlass {
 
         System.out.println("First Print");
         Expericlass obj1=new Expericlass();
+        obj1.printmetod();
+        System.out.println("First Print1");
+        System.out.println("First Print2");
+        System.out.println("First Print3");
+
     }
 }
