@@ -17,5 +17,8 @@ public class Expericlass {
         System.out.println("First Print4");
         System.out.println("First Print5");
         System.out.println("First Print6");
+        System.out.println("First Print7");
+        System.out.println("First Print8");
+        System.out.println("First Print9");
     }
 }
