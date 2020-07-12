@@ -26,5 +26,8 @@ public class Expericlass {
         System.out.println("12345678910");
         System.out.println("12345678910");
         System.out.println("Krishna")
+        System.out.println("Rama")
+        System.out.println("Harey")
+        System.out.println("Harey")
     }
 }
