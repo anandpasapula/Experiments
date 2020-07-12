@@ -2,8 +2,11 @@ package Experipack;
 
 public class Expericlass {
 
-    public void printmetod(){
-        System.out.println(("printfrommethod"));
+    public void printmetod()
+    {
+
+        System.out.println("printfrommethod");
+        System.out.println("new print")
     }
 
     public static void main(String[] args){
@@ -22,5 +25,6 @@ public class Expericlass {
         System.out.println("12345678910");
         System.out.println("12345678910");
         System.out.println("12345678910");
+        System.out.println("Krishna")
     }
 }
