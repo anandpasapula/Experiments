@@ -24,6 +24,10 @@ public class Expericlass {
         Expericlass obj2=new Expericlass();
         obj2.printmethod3();
     }
+    public void printmethod5()
+    {
+        System.out.println("printmethod5")
+    }
 
     public static void main(String[] args){
 
