@@ -9,6 +9,15 @@ public class Expericlass {
         System.out.println("new print")
     }
 
+    public void printmetod2(){
+        System.out.println("printmethod2")
+    }
+
+    public void printmethod3()
+    {
+        System.out.println("printmethod3")
+    }
+
     public static void main(String[] args){
 
         System.out.println("First Print");
